@@ -1,8 +1,8 @@
-## Eae! Eu sou o Victor Hugo Kiffer Mattos
+## Hey! I am Victor Hugo Kiffer Mattos
 
-- 🔭 Hoje eu sou um iniciante no Mundo de programação
-- 🌱 Estou aprendendo introdução a programação: javaScript
-- 📫 Me contate através do email: victorhugokiffermattos@gmail.com
+- 🔭 Today I am a beginner in the world of programming
+- 🌱 I'm learning introduction to programming: JavaScript
+- 📫 Contact me via email: victorhugokiffermattos@gmail.com
 
 ## GitHub Stats ⚡
 <div>
