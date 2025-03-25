@@ -1,7 +1,7 @@
 ## Hey! I am Victor Hugo Kiffer Mattos
 
 - 🔭 Today I am a beginner in the world of programming
-- 🌱 I'm learning introduction to programming: JavaScript
+- 🌱 I'm learning Python
 - 📫 Contact me via email: victorhugokiffermattos@gmail.com
 
 ## GitHub Stats ⚡
