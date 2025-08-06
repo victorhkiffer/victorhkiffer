@@ -1,7 +1,7 @@
 ## Hey! I am Victor Hugo Kiffer Mattos
 
 - 🎇 My objective is to become a full-stack programmer
-- 🌱 I'm learning JavaScript with a focus on learning Node.js.
+- 🌱 I'm learning JavaScript.
 - 📫 Contact me via email: victorhugokiffermattos@gmail.com
 
 ## GitHub Stats ⚡
